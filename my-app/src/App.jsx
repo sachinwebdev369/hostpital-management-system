@@ -34,7 +34,7 @@ function App() {
       <div className="ticks"></div>
  <div className="flex items-center justify-center h-screen bg-gray-100">
       <h1 className="text-4xl font-bold text-blue-600 underline text-yellow-500">
-        Tailwind + Vite + React 🚀
+        Tailwind + Vite + React 🚀 
       </h1>
     </div>
       <section id="next-steps">
